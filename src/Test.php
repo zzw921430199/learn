@@ -2,8 +2,8 @@
 namespace Learn;
 class Test
 {
-  public test()
+  public  function test()
   {
-	ecoh 'test';
+	echo 'test';
   }
 }
