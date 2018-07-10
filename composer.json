@@ -3,7 +3,7 @@
     "description": "just for test",
     "type": "library",
     "require": {
-        "php": "^7.2"
+        "php": ">=5.4"
     },
     "license": "MIT",
     "authors": [
