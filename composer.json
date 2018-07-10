@@ -1,0 +1,19 @@
+{
+    "name": "zzw/learn",
+    "description": "just for test",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zengzewen",
+            "email": "zengzewen@yeah.net"
+        }
+    ],
+    "autoload":{
+	"psr-4":{"Learn\\":"src/"}
+    },
+    "minimum-stability": "dev"
+}
